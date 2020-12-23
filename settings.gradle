@@ -1,0 +1,3 @@
+include ':thinking_test'
+include ':app'
+rootProject.name = "Thinking_java"
