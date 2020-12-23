@@ -18,7 +18,7 @@ package com.example.thinking_test.chap_04;
  *      二进制的4左移3位  4*2^3=32
  *
  *
- * /
+ * */
 public class test_05 {
     public static void main(String[] args) {
         byte a = (byte) 0xaa;
